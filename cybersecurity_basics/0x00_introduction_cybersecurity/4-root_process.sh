@@ -1,2 +1,3 @@
 #!/bin/bash
-ps -u "$1" -f | grep -v "  0      0 "
+#!/bin/bash
+ps -u "$1" -f | grep -vE "0[[:space:]]+0"
