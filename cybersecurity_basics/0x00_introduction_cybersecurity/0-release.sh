@@ -1,2 +1,2 @@
 #!/bin/bash
-lsb_release -is
+grep '^ID=' /etc/os-release | cut -d'=' -f2 | sed 's/"//g' | sed 's/./\u&/'
