@@ -1,1 +1,1 @@
-# Holbertonschool Cyber Security
+# Holberton School Cyber Security
