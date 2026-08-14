@@ -1,1 +1,1 @@
-# Holberton School Cyber Security
+# WebSec 0x04 - Content Discovery
