@@ -1,1 +1,1 @@
-# Cyber Security - Upload Vulnerabilities
+# Upload Vulnerabilities
