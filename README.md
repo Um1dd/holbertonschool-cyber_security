@@ -1,1 +1,1 @@
-# WebSec 0x04 - Content Discovery
+# Cyber Security - Web Application Security
