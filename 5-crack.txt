@@ -1,2 +1,2 @@
-whiterose
-cantona
+whiterose	(Holderton_simpleuser)
+cantona		(Administrator)
