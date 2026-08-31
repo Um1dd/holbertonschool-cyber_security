@@ -1,0 +1,2 @@
+Plugin ID,Severity,Name,Synopsis,Description
+10001,High,Vulnerability Assessment,Target machine vulnerability report summary.,Detailed description of identified vulnerabilities on the target machine.
