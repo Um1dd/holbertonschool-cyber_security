@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E '^[[:space:]]*[A-Za-z]' /etc/ssh/sshd_config
+grep -Ev '^[[:space:]]*(#|$)' /etc/ssh/sshd_config
